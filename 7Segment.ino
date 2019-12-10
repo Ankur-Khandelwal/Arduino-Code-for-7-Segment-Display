@@ -36,18 +36,4 @@ void setup() {
   digitalWrite(a,LOW); digitalWrite(b,LOW); digitalWrite(c,LOW); digitalWrite(d,LOW); digitalWrite(e,LOW); digitalWrite(f,LOW); digitalWrite(g,LOW);delay(500);
   digitalWrite(a,HIGH);digitalWrite(b,HIGH);digitalWrite(c,HIGH);digitalWrite(d,HIGH);digitalWrite(f,HIGH);digitalWrite(g,HIGH);delay(500);
 
-
-  
-
-
-
-
-
-
-
-
-
-  
-  
-  
  }
